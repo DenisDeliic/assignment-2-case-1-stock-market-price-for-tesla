@@ -1,1 +1,3 @@
-# assignment-2-case-1-stock-market-price-for-tesla
+# assignment-2-case-1-stock-market-price-for-tesla 
+#I chose to use the linear regression algorithm because regression can predict continuous values and that fits perfect with how the stock market is and gives me the continuous value within a range. While classification algorithm predicts discrete labels and categories, if the task was will the stock go 'up' or 'down' the nest they then classification would be the right one.
+#The reason i chose the Linear regression because of its simplicity ease of implementation. It assumes a linear relationship between the input features and the target variable. For stock price prediction, this may not capture all the nuances of the market but will allow for a straightforward demonstration of how to work with machine learning for regression tasks.
